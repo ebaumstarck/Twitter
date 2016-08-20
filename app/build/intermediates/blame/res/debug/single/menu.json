@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/emma_baumstarck/Downloads/MySimpleTweets/app/build/intermediates/res/merged/debug/menu/login.xml",
+        "source": "/Users/emma_baumstarck/Downloads/MySimpleTweets/app/src/main/res/menu/login.xml"
+    },
+    {
+        "merged": "/Users/emma_baumstarck/Downloads/MySimpleTweets/app/build/intermediates/res/merged/debug/menu/menu_timeline.xml",
+        "source": "/Users/emma_baumstarck/Downloads/MySimpleTweets/app/src/main/res/menu/menu_timeline.xml"
+    },
+    {
+        "merged": "/Users/emma_baumstarck/Downloads/MySimpleTweets/app/build/intermediates/res/merged/debug/menu/menu_profile.xml",
+        "source": "/Users/emma_baumstarck/Downloads/MySimpleTweets/app/src/main/res/menu/menu_profile.xml"
+    }
+]
